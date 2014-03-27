@@ -7,5 +7,7 @@ public static void main(String[] args)
   System.out.println("So did Daniel!");
   System.out.println("So did I, Gerald");
   System.out.println("I know i did, James");
+  System.out.println("Jean - Ni hao we de mingzi shi ji en de shi ni de mingzi kang mi?");
+
 }
 }
